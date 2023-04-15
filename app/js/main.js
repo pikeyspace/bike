@@ -1,0 +1,2 @@
+    
+    $('.bike-slider').slick();
